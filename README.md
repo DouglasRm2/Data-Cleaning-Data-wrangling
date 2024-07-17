@@ -1,2 +1,5 @@
 # Data-Cleaning-Data-wrangling
- dataset para modelagem de dados
+
+Aplicando conhecimentos de limpeza e organização de dados
+(data cleaning & data wrangling) para estruturar uma base de
+dados para modelagem.
